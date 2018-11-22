@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Messenger</string>
+    <string name="you_have_no_conversations">you have no conversations</string>
+    <string name="new_conv_dialog_hint">+79001234567</string>
+    <string name="new_conv_dialog_title">Enter a phone number</string>
+    <string name="new_conv_dialog_neg">close</string>
+    <string name="new_conv_dialog_pos">start chat</string>
+    <string name="new_conv_dialog_wrong_input">wrong input format</string>
+    <string name="new_conv_dialog_input_is_empty">you have to enter a phone number</string>
+    <string name="user_not_found">User not found</string>
+    <string name="activity_conv_mb_send_text">send</string>
+    <string name="main_notification_channel_name">Messages</string>
+    <string name="reply_label">Reply</string>
+</resources>
